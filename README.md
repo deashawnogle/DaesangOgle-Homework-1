@@ -1,6 +1,6 @@
 # DaesangOgle-Homework-1
 
-Homework for frist Week
+Homework for first Week
 
 Created GitHub repository with Unique Name (DaesangOgle-Homework-1) <br>
 Used Git Clone / Add / Commit / Push
